@@ -6,7 +6,6 @@ def guess():
 
     print(art.logo)
 
-
     score = 0
     count = 3
     while count > 0:
