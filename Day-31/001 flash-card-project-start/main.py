@@ -66,5 +66,5 @@ known_button.grid(row=1, column=1)
 # Show the first card
 next_card()
 
-# Run the application
+## Run the application
 window.mainloop()
