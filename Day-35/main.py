@@ -53,7 +53,7 @@ else:
 message = client.messages.create(
     body=today_message,
     from_="+18787865355",  # Your Twilio phone number
-    to=["+959966113099", "+95978060703"]
+    to=["+959966113099", "+959978060703"]
 )
 
 
