@@ -2,7 +2,7 @@ from http.client import responses
 import requests
 
 STOCK_ENDPOINT = 'https://www.alphavantage.co/query'
-API_KEY = 'ABXYNKABSE8J4EZL'
+API_KEY = ''
 
 
 STOCK_NAME = 'TSLA'
